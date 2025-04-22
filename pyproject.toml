@@ -1,0 +1,10 @@
+[project]
+name = "debtloop-bot"
+version = "0.1.0"
+description = "Telegram bot for closing debt loops"
+authors = ["@alexanderkletsov"]
+requires-python = ">=3.11"
+
+[tool.poetry.dependencies]
+python-dotenv = "^1.0.1"
+pyTelegramBotAPI = "^4.14.0"
