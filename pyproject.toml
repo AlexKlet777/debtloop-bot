@@ -1,7 +1,7 @@
 [project]
 name = "debtloop-bot"
-version = "0.1.0"
-description = "Telegram bot for closing debt loops"
+version = "0.2.0"
+description = "DebtLoop B2B circular-debt detection and multilateral netting PoC"
 authors = ["@alexanderkletsov"]
 requires-python = ">=3.11"
 
